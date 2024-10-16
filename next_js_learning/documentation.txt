@@ -1,0 +1,35 @@
+introduction 
+installation ans setup 
+hello world
+event functions
+file and folder structure
+component type
+basic rounting 
+linking and navigation
+nested rounting 
+common layout
+conditional layout
+dyanamic routing
+catch all segment
+404
+middleware
+rendering
+clinet side vs prerendering
+fetch api data in client
+call api server component
+fetch api data in server
+use client component with server
+style 
+css module
+conditional style
+image
+font
+generate metadata
+script component
+loading feature
+static assets
+how to make production build
+export static html page with build
+static site generation
+redirection
+envirment variable
