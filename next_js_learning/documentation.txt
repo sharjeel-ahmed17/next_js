@@ -9,15 +9,15 @@ linking and navigation
 nested rounting 
 common layout
 conditional layout
-dyanamic routing
-catch all segment
+dyanamic routing //
+catch all segment //
 404
-middleware
+middleware (review)
 rendering
 clinet side vs prerendering
-fetch api data in client
-call api server component
-fetch api data in server
+fetch api data in client //
+call api server component 
+fetch api data in server //
 use client component with server
 style 
 css module
@@ -33,3 +33,10 @@ export static html page with build
 static site generation
 redirection
 envirment variable
+
+
+link
+userouter
+use path name
+
+use client

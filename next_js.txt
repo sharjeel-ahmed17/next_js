@@ -1,0 +1,18 @@
+pwa 
+next auth
+sanity
+postgress sql
+mongo db
+
+src
+	app
+		api
+       			user
+       				login
+       				signup
+       				forgot-password
+middleware.js
+	page.jsx
+	layout.jsx
+	about
+		

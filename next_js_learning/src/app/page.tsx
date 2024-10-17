@@ -8,11 +8,12 @@ export default function Home() {
 
 
       {/* linking */}
-      <div className="flex gap-3">
+      <div className="">
 
         <Link href='/about'>about</Link>
         <Link href='/contact'>contact</Link>
         <Link href='/testing'>testing</Link>
+
       </div>
     </>
   )
