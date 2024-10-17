@@ -35,8 +35,8 @@ export default async function Products() {
     console.log(products.length);
 
     return (
-        <div>
-            <h1>Products</h1>
+        <div className='grid grid-cols-4 '>
+            {/* <h1>Products</h1> */}
             {/* <p>Total Products: {products.length}</p> */}
             {products.map((product, index) => (
                 <ProductCard key={index} product={product} />
