@@ -11,17 +11,17 @@ common layout
 conditional layout
 dyanamic routing //
 catch all segment //
-404
+404 
 middleware (review)
 rendering
 clinet side vs prerendering
 fetch api data in client //
 call api server component 
 fetch api data in server //
-use client component with server
-style 
-css module
-conditional style
+use client component with server//
+style //
+css module //
+conditional style (review)
 image
 font
 generate metadata
